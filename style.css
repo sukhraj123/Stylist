@@ -166,8 +166,9 @@ nav .fa{
     nav{
         display: flex;
     }
-    .text-box h1{
+    .textb h1{
         font-size: 20px;
+        color: #eaefbd;
     }
     .nav-links ul li{
         display: block;
